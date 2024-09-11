@@ -38,4 +38,4 @@ Consistency is key to improvement. Try to solve at least one kata every day and 
 - [LeetCode](https://leetcode.com)
 - [HackerRank](https://www.hackerrank.com)
 
-Happy coding!!
+Happy coding!
